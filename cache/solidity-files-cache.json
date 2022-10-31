@@ -1,0 +1,103 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "E:\\BlockChain\\GhostTask\\Fork-Pancakeswap\\RuyiSwap\\RuyiSwap-Contracts\\contracts\\AnniversaryAchievement.sol": {
+      "lastModificationDate": 1647188876851,
+      "contentHash": "b83c32d603e1f5f74ff8af2e9427a1de",
+      "sourceName": "contracts/AnniversaryAchievement.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.2 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.6.0 <0.8.0",
+        ">=0.4.0",
+        "^0.6.0",
+        "^0.6.0",
+        "^0.6.12"
+      ],
+      "artifacts": [
+        "AccessControl",
+        "Address",
+        "AnniversaryAchievement",
+        "Context",
+        "Counters",
+        "ERC721Holder",
+        "EnumerableSet",
+        "IBEP20",
+        "IERC165",
+        "IERC721",
+        "IERC721Receiver",
+        "Ownable",
+        "PancakeProfile",
+        "SafeBEP20",
+        "SafeMath"
+      ]
+    },
+    "E:\\BlockChain\\GhostTask\\Fork-Pancakeswap\\RuyiSwap\\RuyiSwap-Contracts\\contracts\\Multicall.sol": {
+      "lastModificationDate": 1647188876898,
+      "contentHash": "718722ae244b25f9442c336df65d8abe",
+      "sourceName": "contracts/Multicall.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.0"
+      ],
+      "artifacts": [
+        "Multicall2"
+      ]
+    }
+  }
+}
